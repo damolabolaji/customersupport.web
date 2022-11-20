@@ -13,6 +13,7 @@ import Solutions from "./pages/solutions-page/Solutions";
 import DashboardOverview from "./pages/DashboardOverview";
 import About from "./pages/AboutUs/About";
 import TryForFree from "./pages/TryForFree";
+import Pricing from "./pages/PricingPage";
 
 function App() {
   return (
